@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Environments and secrets
+.env
+.env.*
+!.env.example
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
+
+# Temporary files
+*.log
+
+# Large model weights (downloaded automatically)
+*.pt
+
+# OS files
+.DS_Store
+Thumbs.db

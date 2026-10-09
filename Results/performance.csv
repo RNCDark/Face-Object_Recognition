@@ -1,0 +1,4 @@
+mode,duration_seconds,frames_processed,average_fps,average_processing_ms
+Face Only,30.05,542,18.03,50.21
+Object Only,30.04,900,29.96,22.94
+Combined,30.02,419,13.96,68.83
